@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  circle_id: 1
+  member_profile_id: 1
+  user_id: 1
+  nickname: MyString
+  role: MyString
+  admin: false
+
+two:
+  circle_id: 1
+  member_profile_id: 1
+  user_id: 1
+  nickname: MyString
+  role: MyString
+  admin: false

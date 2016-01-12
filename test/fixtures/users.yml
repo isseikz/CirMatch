@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  univ_id: 1
+  birth_date: 2016-01-12
+  grade: MyString
+  gender: 1
+  name: MyString
+
+two:
+  univ_id: 1
+  birth_date: 2016-01-12
+  grade: MyString
+  gender: 1
+  name: MyString
